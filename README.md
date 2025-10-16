@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there i'm guy 👋
+# i hope you all love yourself
 <!--
 **ggilboa3/ggilboa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
