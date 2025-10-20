@@ -1,16 +1,27 @@
-# Hi there i'm guy 👋
-# i hope you all love yourself
-<!--
-**ggilboa3/ggilboa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, nice to meet you!
 
-Here are some ideas to get you started:
+I'm **Guy Gilboa**, 26 years old from **Haifa, Israel** 🇮🇱  
+I'm a **Computer Science student** at the **Open University**, passionate about coding, learning new technologies, and turning ideas into real, working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- 🧠 **C** – low-level programming and memory management  
+- ☕ **Java** – object-oriented programming and backend development  
+- 🐍 **Python** – scripting, automation, and data analysis  
+- 🐳 **Docker** – containerization and environment setup  
+- 🌱 **Git** – version control and team collaboration
+
+---
+
+## 🚀 What I'm up to
+
+I'm constantly improving my skills, exploring new tools, and working on fun projects.  
+I enjoy solving problems, learning from others, and sharing ideas with the dev community.  
+
+If you'd like to connect, collaborate, or just say hi — feel free to reach out! 😄
+
+---
+
+⭐️ *Thanks for stopping by! Have an awesome day!*
